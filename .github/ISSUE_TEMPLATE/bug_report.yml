@@ -1,0 +1,21 @@
+name: "🐞 Bug"
+description: "버그 제보"
+labels: ["bug"]
+title: "[Bug] "
+body:
+  - type: textarea
+    attributes:
+      label: ⚠️ 문제 설명
+      placeholder: 어떤 문제가 발생했나요?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 🔄 재현 방법
+      placeholder: 문제를 어떻게 재현할 수 있나요?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: ✅ 기대 결과
+      placeholder: 어떤 동작이 되어야 하나요?
