@@ -1,0 +1,15 @@
+name: "⚙️ Setting"
+description: "환경/레포 설정 변경 요청"
+labels: ["chore"]
+title: "[Setting] "
+body:
+  - type: textarea
+    attributes:
+      label: 🛠️ 요청 내용
+      placeholder: 어떤 변경을 원하시나요?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 📄 필요 이유
+      placeholder: 이 변경이 필요한 이유는 무엇인가요?

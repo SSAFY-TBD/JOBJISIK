@@ -1,0 +1,12 @@
+[
+  { "name": "✨ feature",   "color": "9be7a8", "description": "새 기능 또는 개선 제안" },
+  { "name": "🐛 bug",       "color": "f4a7a7", "description": "버그 수정 필요" },
+  { "name": "🛠️ chore",     "color": "a7c7ff", "description": "빌드/설정/패키지 등 운영 작업" },
+  { "name": "📝 docs",      "color": "f8e5a9", "description": "문서 추가/수정" },
+  { "name": "🧪 test",      "color": "c6f7c1", "description": "테스트 추가/수정" },
+  { "name": "🎨 style",     "color": "e6d9ff", "description": "포맷팅/세미콜론 등 기능 무관 스타일" },
+  { "name": "♻️ refactor",  "color": "ffe3b3", "description": "동작 변화 없는 코드 리팩토링" },
+  { "name": "🚀 perf",      "color": "b8f2e6", "description": "성능 개선" },
+  { "name": "🔧 ci",        "color": "d6e4ff", "description": "CI/CD 파이프라인/워크플로 변경" },
+  { "name": "🚨 lint",      "color": "fad4e7", "description": "린트/정적분석 관련 수정" }
+]
